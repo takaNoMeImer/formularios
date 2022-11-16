@@ -44,7 +44,7 @@ const Container = () => {
         <div>
             <div className="container mt-5">
                 <div className="actions">
-                    <button onClick={ deleteAll } className="btn md-tonal-button">Delete All</button>
+                    <button onClick={ deleteAll } className="btn btn-danger">Delete All</button>
                 </div>
             </div>
 
